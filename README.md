@@ -6,7 +6,7 @@ I decided to use some existing template for this task - because it's much faster
 I forked it from there - https://github.com/Ardesco/Selenium-Maven-Template - and implemented it for my own needs.
 
 To be honest I'm not really good in testing tasks and I don't really love it.
-Hope you will find my solution interesting.
+Hope you will find my solution interesting and you'll find interesting my way of thinging.
 
 Also I've got some code sample of my pet project, I can share it with you if you'll be interested in.
 
