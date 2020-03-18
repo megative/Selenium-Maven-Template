@@ -13,6 +13,7 @@ Also I've got some code sample of my pet project, I can share it with you if you
 About this task:
 
 UI Tests located /src/test/java/tests/ui
+
 API Tests located /src/test/java/tests/api
 
 I used Maven as a builder tool (it was here from template, actually).
