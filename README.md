@@ -25,6 +25,9 @@ To Start tests:
 4. `mvn clean verify`
 
 Before that you need to configure Java and Maven to start it. It should be cross-platformed, I developed and tested it using macOS.
+Usually you need to configure Maven - I did it this way: 
+`export PATH={maven.dir}/bin:$PATH`
+Maven download link: https://maven.apache.org/download.cgi
 
 If the tests fail screenshots will be saved in ${project.basedir}/target/screenshots - Only for UI Tests.
 Call stacktrace and reports are available in ${project.basedir}/targer/surefire-reports
